@@ -36,11 +36,8 @@
 </p>
 <br>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenoncyber&show_icons=true&locale=en" alt="xenoncyber" /></p>
-
-<h3 align="left">🔥   My Stats :</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenoncyber&" alt="xenoncyber" /></p>
+![](https://github-readme-stats.vercel.app/api?username=XENONCYBER&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XENONCYBER&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XENONCYBER&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
