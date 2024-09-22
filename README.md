@@ -35,9 +35,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 <br>
-<br>
-![](https://github-readme-stats.vercel.app/api?username=XENONCYBER&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=XENONCYBER&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XENONCYBER&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenoncyber&show_icons=true&locale=en" alt="xenoncyber" /></p>
+<h3 align="left">🔥   My Stats :</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenoncyber&" alt="xenoncyber" /></p>
